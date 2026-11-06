@@ -1,0 +1,2 @@
+# Explicit Test Fixtures Directory
+# Used for deterministic offline testing of collectors, rules, validators, and RAG pipelines.
